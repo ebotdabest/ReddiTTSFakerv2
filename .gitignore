@@ -1,0 +1,15 @@
+# .gitignore file
+
+# ignore config.py in main directory
+config.py
+api.txt
+goodboi.ftts
+test.ftts
+__pycache__/config.cpython-310.pyc
+__pycache__/config.cpython-311.pyc
+__pycache__/functions.cpython-310.pyc
+make_video/__pycache__/__init__.cpython-310.pyc
+*.png
+*.mp3
+*.mp4
+*.json
