@@ -48,7 +48,7 @@ pip install -r requirements.txt
 The packages will be installed on your venv<br />
 Now just open up config.py with any editor and edit MAIN_DIR to the project root directory
 
-By any chance you want to use this "tool" pls just say that it's made by me and also call it by it's name: "ReddiTTSFaker v1" ty
+By any chance you want to use this "tool" pls just say that it's made by me and also call it by it's name: "ReddiTTSFaker v2" ty
 
 
 
